@@ -1,1 +1,1 @@
-Studying C++ from basics# C-Studies
+Studying C++ from basics
