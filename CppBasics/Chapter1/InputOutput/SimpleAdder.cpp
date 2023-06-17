@@ -1,5 +1,4 @@
 #include <iostream>
-#include <Windows.h>
 
 int main(void)
 {
@@ -13,6 +12,5 @@ int main(void)
 
     int result = val1 + val2;
     std::cout << "Addition results: " << result << std::endl;
-    Sleep(3000);
     return 0;
 }
