@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/a04280905/Desktop/2023/C-Studies/CppBasics/EigenTest/build/_deps/matplotplusplus-subbuild/CMakeFiles/matplotplusplus-populate"
+		},
+		{
+			"file" : "/Users/a04280905/Desktop/2023/C-Studies/CppBasics/EigenTest/build/_deps/matplotplusplus-subbuild/CMakeFiles/matplotplusplus-populate.rule"
+		},
+		{
+			"file" : "/Users/a04280905/Desktop/2023/C-Studies/CppBasics/EigenTest/build/_deps/matplotplusplus-subbuild/CMakeFiles/matplotplusplus-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/a04280905/Desktop/2023/C-Studies/CppBasics/EigenTest/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-install.rule"
+		},
+		{
+			"file" : "/Users/a04280905/Desktop/2023/C-Studies/CppBasics/EigenTest/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/a04280905/Desktop/2023/C-Studies/CppBasics/EigenTest/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-download.rule"
+		},
+		{
+			"file" : "/Users/a04280905/Desktop/2023/C-Studies/CppBasics/EigenTest/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-update.rule"
+		},
+		{
+			"file" : "/Users/a04280905/Desktop/2023/C-Studies/CppBasics/EigenTest/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/a04280905/Desktop/2023/C-Studies/CppBasics/EigenTest/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/a04280905/Desktop/2023/C-Studies/CppBasics/EigenTest/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-build.rule"
+		},
+		{
+			"file" : "/Users/a04280905/Desktop/2023/C-Studies/CppBasics/EigenTest/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/matplotplusplus-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"matplotplusplus-populate"
+		],
+		"name" : "matplotplusplus-populate"
+	}
+}
