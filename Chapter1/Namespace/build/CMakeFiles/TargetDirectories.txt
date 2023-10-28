@@ -1,0 +1,3 @@
+/Users/a04280905/Desktop/2023/Cpp2/Chapter1/Namespace/build/CMakeFiles/rebuild_cache.dir
+/Users/a04280905/Desktop/2023/Cpp2/Chapter1/Namespace/build/CMakeFiles/edit_cache.dir
+/Users/a04280905/Desktop/2023/Cpp2/Chapter1/Namespace/build/CMakeFiles/test.dir
