@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ArrayTemplate.h
+iostream
+-
+cstdlib
+-
+
+../include/Point.h
+iostream
+-
+
+/Users/a04280905/Desktop/2023/C-Studies/Chapter13/ClassTemplate/src/BoundArrayMain.cpp
+iostream
+-
+ArrayTemplate.h
+/Users/a04280905/Desktop/2023/C-Studies/Chapter13/ClassTemplate/src/ArrayTemplate.h
+Point.h
+/Users/a04280905/Desktop/2023/C-Studies/Chapter13/ClassTemplate/src/Point.h
+
+/Users/a04280905/Desktop/2023/C-Studies/Chapter13/ClassTemplate/src/Point.cpp
+iostream
+-
+Point.h
+/Users/a04280905/Desktop/2023/C-Studies/Chapter13/ClassTemplate/src/Point.h
+

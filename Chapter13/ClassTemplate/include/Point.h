@@ -1,5 +1,4 @@
-#ifndef __POINT_H__
-#define __POINT_H__
+#pragma once
 
 #include <iostream>
 using namespace std;
@@ -12,6 +11,3 @@ class Point
         Point(int x=0, int y=0);
         friend ostream& operator<<(ostream& os, const Point& pos);
 };
-
-
-#endif
